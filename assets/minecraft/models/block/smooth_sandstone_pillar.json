@@ -1,9 +1,9 @@
 {
         "credit": "Made with Blockbench",
         "textures": {
-                "0": "block/sandstone_bottom",
-                "1": "block/sandstone_bottom",
-                "particle": "block/sandstone_bottom"
+                "0": "block/sandstone_top",
+                "1": "block/sandstone_top",
+                "particle": "block/sandstone_top"
         },
                      "elements": [
                 {
