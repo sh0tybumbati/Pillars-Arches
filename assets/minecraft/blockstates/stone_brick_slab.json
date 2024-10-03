@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "type=double": {
+      "model": "minecraft:block/stone_bricks_pillar"
+    }
+  }
+}
