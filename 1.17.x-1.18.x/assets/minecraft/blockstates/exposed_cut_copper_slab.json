@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "type=double": {
+      "model": "minecraft:block/exposed_cut_copper_pillar"
+    }
+  }
+}

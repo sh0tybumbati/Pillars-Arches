@@ -1,0 +1,24 @@
+{
+    "variants": {
+        "facing=east,half=top,shape=straight":  { "model": "block/deepslate_brick_arch_e"},
+        "facing=west,half=top,shape=straight":  { "model": "block/deepslate_brick_arch_w"},
+        "facing=south,half=top,shape=straight": { "model": "block/deepslate_brick_arch_s"},
+        "facing=north,half=top,shape=straight": { "model": "block/deepslate_brick_arch_n"},
+        "facing=east,half=top,shape=outer_right":  { "model": "block/deepslate_brick_arch_sl_er_out"},
+        "facing=west,half=top,shape=outer_right":  { "model": "block/deepslate_brick_arch_nl_wr_out"},
+        "facing=south,half=top,shape=outer_right": { "model": "block/deepslate_brick_arch_sr_wl_out"},
+        "facing=north,half=top,shape=outer_right": { "model": "block/deepslate_brick_arch_nr_el_out"},
+        "facing=east,half=top,shape=outer_left":  { "model": "block/deepslate_brick_arch_nr_el_out"},
+        "facing=west,half=top,shape=outer_left":  { "model": "block/deepslate_brick_arch_sr_wl_out"},
+        "facing=south,half=top,shape=outer_left": { "model": "block/deepslate_brick_arch_sl_er_out"},
+        "facing=north,half=top,shape=outer_left": { "model": "block/deepslate_brick_arch_nl_wr_out"},
+        "facing=east,half=top,shape=inner_right":  { "model": "block/deepslate_brick_arch_sl_er"},
+        "facing=west,half=top,shape=inner_right":  { "model": "block/deepslate_brick_arch_nl_wr"},
+        "facing=south,half=top,shape=inner_right": { "model": "block/deepslate_brick_arch_sr_wl"},
+        "facing=north,half=top,shape=inner_right": { "model": "block/deepslate_brick_arch_nr_el"},
+        "facing=east,half=top,shape=inner_left":  { "model": "block/deepslate_brick_arch_nr_el"},
+        "facing=west,half=top,shape=inner_left":  { "model": "block/deepslate_brick_arch_sr_wl"},
+        "facing=south,half=top,shape=inner_left": { "model": "block/deepslate_brick_arch_sl_er"},
+        "facing=north,half=top,shape=inner_left": { "model": "block/deepslate_brick_arch_nl_wr"}
+    }
+}
